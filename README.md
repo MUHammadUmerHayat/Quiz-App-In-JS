@@ -17,4 +17,3 @@ Want to improve your core Web Develoment skills? Want to improve your knowledge 
 
      CSS - Flexbox, Animtations, and REM units
 
-   # Aurthor :Muhammad Umer Hayat
